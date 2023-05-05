@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, ImageBackground } from 'react-native';
-import { Button, Box, Input, Icon } from "native-base";
+import { Button, Box, Input } from "native-base";
 
 export default function Home() {
     return (
